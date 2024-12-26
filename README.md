@@ -31,5 +31,5 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 ### Deploy
 
-- [GitHub](https://davi-d18.github.io/desafio_natal)
+- [GitHub](https://davi-d18.github.io/Desafio_Natal/)
 
